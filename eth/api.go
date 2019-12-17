@@ -25,17 +25,17 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/miner"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/ethereum/go-ethereum/rpc"
-	"github.com/ethereum/go-ethereum/trie"
+	"github.com/awesome-chain/helloworld-go-ethereum/common"
+	"github.com/awesome-chain/helloworld-go-ethereum/common/hexutil"
+	"github.com/awesome-chain/helloworld-go-ethereum/core"
+	"github.com/awesome-chain/helloworld-go-ethereum/core/state"
+	"github.com/awesome-chain/helloworld-go-ethereum/core/types"
+	"github.com/awesome-chain/helloworld-go-ethereum/log"
+	"github.com/awesome-chain/helloworld-go-ethereum/miner"
+	"github.com/awesome-chain/helloworld-go-ethereum/params"
+	"github.com/awesome-chain/helloworld-go-ethereum/rlp"
+	"github.com/awesome-chain/helloworld-go-ethereum/rpc"
+	"github.com/awesome-chain/helloworld-go-ethereum/trie"
 )
 
 // PublicEthereumAPI provides an API to access Ethereum full node-related

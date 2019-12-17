@@ -25,11 +25,11 @@ import (
 	"io/ioutil"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/accounts/abi/bind/backends"
-	"github.com/ethereum/go-ethereum/contracts/chequebook/contract"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/awesome-chain/helloworld-go-ethereum/accounts/abi/bind"
+	"github.com/awesome-chain/helloworld-go-ethereum/accounts/abi/bind/backends"
+	"github.com/awesome-chain/helloworld-go-ethereum/contracts/chequebook/contract"
+	"github.com/awesome-chain/helloworld-go-ethereum/core"
+	"github.com/awesome-chain/helloworld-go-ethereum/crypto"
 )
 
 var (

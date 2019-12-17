@@ -22,9 +22,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/swarm/storage"
+	"github.com/awesome-chain/helloworld-go-ethereum/log"
+	"github.com/awesome-chain/helloworld-go-ethereum/metrics"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/storage"
 )
 
 //metrics variables

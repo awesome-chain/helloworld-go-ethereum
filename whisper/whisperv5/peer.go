@@ -20,10 +20,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/awesome-chain/helloworld-go-ethereum/common"
+	"github.com/awesome-chain/helloworld-go-ethereum/log"
+	"github.com/awesome-chain/helloworld-go-ethereum/p2p"
+	"github.com/awesome-chain/helloworld-go-ethereum/rlp"
 	set "gopkg.in/fatih/set.v0"
 )
 

@@ -24,13 +24,13 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/consensus/ethash"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/eth/downloader"
-	"github.com/ethereum/go-ethereum/eth/gasprice"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/awesome-chain/helloworld-go-ethereum/common"
+	"github.com/awesome-chain/helloworld-go-ethereum/common/hexutil"
+	"github.com/awesome-chain/helloworld-go-ethereum/consensus/ethash"
+	"github.com/awesome-chain/helloworld-go-ethereum/core"
+	"github.com/awesome-chain/helloworld-go-ethereum/eth/downloader"
+	"github.com/awesome-chain/helloworld-go-ethereum/eth/gasprice"
+	"github.com/awesome-chain/helloworld-go-ethereum/params"
 )
 
 // DefaultConfig contains default settings for use on the Ethereum main net.

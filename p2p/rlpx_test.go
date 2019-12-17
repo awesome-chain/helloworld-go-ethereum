@@ -30,12 +30,12 @@ import (
 	"testing"
 	"time"
 
+	"github.com/awesome-chain/helloworld-go-ethereum/crypto"
+	"github.com/awesome-chain/helloworld-go-ethereum/crypto/ecies"
+	"github.com/awesome-chain/helloworld-go-ethereum/crypto/sha3"
+	"github.com/awesome-chain/helloworld-go-ethereum/p2p/discover"
+	"github.com/awesome-chain/helloworld-go-ethereum/rlp"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/crypto/ecies"
-	"github.com/ethereum/go-ethereum/crypto/sha3"
-	"github.com/ethereum/go-ethereum/p2p/discover"
-	"github.com/ethereum/go-ethereum/rlp"
 )
 
 func TestSharedSecret(t *testing.T) {

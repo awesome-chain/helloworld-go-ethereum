@@ -7,12 +7,12 @@ import (
 	"math/big"
 	"strings"
 
+	"github.com/awesome-chain/helloworld-go-ethereum/accounts/abi"
+	"github.com/awesome-chain/helloworld-go-ethereum/accounts/abi/bind"
+	"github.com/awesome-chain/helloworld-go-ethereum/common"
+	"github.com/awesome-chain/helloworld-go-ethereum/core/types"
+	"github.com/awesome-chain/helloworld-go-ethereum/event"
 	ethereum "github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/accounts/abi"
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/event"
 )
 
 // PublicResolverABI is the input ABI used to generate the binding from.

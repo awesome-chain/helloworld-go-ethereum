@@ -24,7 +24,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/metrics"
+	"github.com/awesome-chain/helloworld-go-ethereum/metrics"
 )
 
 /*

@@ -22,9 +22,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/swarm/api"
-	httpapi "github.com/ethereum/go-ethereum/swarm/api/http"
-	"github.com/ethereum/go-ethereum/swarm/storage"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/api"
+	httpapi "github.com/awesome-chain/helloworld-go-ethereum/swarm/api/http"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/storage"
 )
 
 func NewTestSwarmServer(t *testing.T) *TestSwarmServer {

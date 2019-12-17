@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
+	"github.com/awesome-chain/helloworld-go-ethereum/cmd/utils"
 	"gopkg.in/urfave/cli.v1"
 )
 

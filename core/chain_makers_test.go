@@ -20,12 +20,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/consensus/ethash"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/awesome-chain/helloworld-go-ethereum/consensus/ethash"
+	"github.com/awesome-chain/helloworld-go-ethereum/core/types"
+	"github.com/awesome-chain/helloworld-go-ethereum/core/vm"
+	"github.com/awesome-chain/helloworld-go-ethereum/crypto"
+	"github.com/awesome-chain/helloworld-go-ethereum/ethdb"
+	"github.com/awesome-chain/helloworld-go-ethereum/params"
 )
 
 func ExampleGenerateChain() {
