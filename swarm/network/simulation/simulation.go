@@ -23,11 +23,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/simulations"
-	"github.com/ethereum/go-ethereum/p2p/simulations/adapters"
+	"github.com/awesome-chain/helloworld-go-ethereum/log"
+	"github.com/awesome-chain/helloworld-go-ethereum/node"
+	"github.com/awesome-chain/helloworld-go-ethereum/p2p/enode"
+	"github.com/awesome-chain/helloworld-go-ethereum/p2p/simulations"
+	"github.com/awesome-chain/helloworld-go-ethereum/p2p/simulations/adapters"
 )
 
 // Common errors that are returned by functions in this package.

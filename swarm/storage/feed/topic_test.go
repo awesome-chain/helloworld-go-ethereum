@@ -3,7 +3,7 @@ package feed
 import (
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common/hexutil"
+	"github.com/awesome-chain/helloworld-go-ethereum/common/hexutil"
 )
 
 func TestTopic(t *testing.T) {

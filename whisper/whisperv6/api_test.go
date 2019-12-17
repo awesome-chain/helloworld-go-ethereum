@@ -22,8 +22,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/awesome-chain/helloworld-go-ethereum/common"
 	mapset "github.com/deckarep/golang-set"
-	"github.com/ethereum/go-ethereum/common"
 )
 
 func TestMultipleTopicCopyInNewMessageFilter(t *testing.T) {

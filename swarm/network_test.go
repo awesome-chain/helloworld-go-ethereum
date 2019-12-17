@@ -28,14 +28,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/simulations/adapters"
-	"github.com/ethereum/go-ethereum/swarm/api"
-	"github.com/ethereum/go-ethereum/swarm/network/simulation"
-	"github.com/ethereum/go-ethereum/swarm/storage"
+	"github.com/awesome-chain/helloworld-go-ethereum/crypto"
+	"github.com/awesome-chain/helloworld-go-ethereum/log"
+	"github.com/awesome-chain/helloworld-go-ethereum/node"
+	"github.com/awesome-chain/helloworld-go-ethereum/p2p/enode"
+	"github.com/awesome-chain/helloworld-go-ethereum/p2p/simulations/adapters"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/api"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/network/simulation"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/storage"
 	colorable "github.com/mattn/go-colorable"
 )
 

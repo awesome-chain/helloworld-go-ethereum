@@ -38,18 +38,18 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/swarm/storage/feed/lookup"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/storage/feed/lookup"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/swarm/api"
-	swarm "github.com/ethereum/go-ethereum/swarm/api/client"
-	"github.com/ethereum/go-ethereum/swarm/multihash"
-	"github.com/ethereum/go-ethereum/swarm/storage"
-	"github.com/ethereum/go-ethereum/swarm/storage/feed"
-	"github.com/ethereum/go-ethereum/swarm/testutil"
+	"github.com/awesome-chain/helloworld-go-ethereum/common"
+	"github.com/awesome-chain/helloworld-go-ethereum/core/types"
+	"github.com/awesome-chain/helloworld-go-ethereum/crypto"
+	"github.com/awesome-chain/helloworld-go-ethereum/log"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/api"
+	swarm "github.com/awesome-chain/helloworld-go-ethereum/swarm/api/client"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/multihash"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/storage"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/storage/feed"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/testutil"
 )
 
 func init() {

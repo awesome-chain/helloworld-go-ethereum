@@ -26,9 +26,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/simulations"
-	"github.com/ethereum/go-ethereum/swarm/log"
+	"github.com/awesome-chain/helloworld-go-ethereum/p2p/enode"
+	"github.com/awesome-chain/helloworld-go-ethereum/p2p/simulations"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/log"
 )
 
 var (

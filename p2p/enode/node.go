@@ -26,7 +26,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/p2p/enr"
+	"github.com/awesome-chain/helloworld-go-ethereum/p2p/enr"
 )
 
 // Node represents a host on the network.

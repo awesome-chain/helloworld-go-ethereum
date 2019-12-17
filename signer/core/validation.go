@@ -23,7 +23,7 @@ import (
 	"math/big"
 	"regexp"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/awesome-chain/helloworld-go-ethereum/common"
 )
 
 // The validation package contains validation checks for transactions

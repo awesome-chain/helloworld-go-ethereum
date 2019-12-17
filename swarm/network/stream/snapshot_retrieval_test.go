@@ -23,14 +23,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/simulations/adapters"
-	"github.com/ethereum/go-ethereum/swarm/log"
-	"github.com/ethereum/go-ethereum/swarm/network"
-	"github.com/ethereum/go-ethereum/swarm/network/simulation"
-	"github.com/ethereum/go-ethereum/swarm/state"
-	"github.com/ethereum/go-ethereum/swarm/storage"
+	"github.com/awesome-chain/helloworld-go-ethereum/node"
+	"github.com/awesome-chain/helloworld-go-ethereum/p2p/enode"
+	"github.com/awesome-chain/helloworld-go-ethereum/p2p/simulations/adapters"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/log"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/network"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/network/simulation"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/state"
+	"github.com/awesome-chain/helloworld-go-ethereum/swarm/storage"
 )
 
 //constants for random file generation
